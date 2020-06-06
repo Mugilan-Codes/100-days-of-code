@@ -411,3 +411,18 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1268939686480760832?s=20)
 
 ---
+
+## Day **29** : _June 06, Saturday_
+
+**Today's Progress**: Started Learning about Postgres and PERN stack
+
+**Thoughts**: PERN is interesting and i think is powerful than mongodb, Getting myself comfortable for the side project. Did a quick course on [Youtube](https://youtu.be/ldYcgPKEZC8), Enjoyed the Dry Humour of [Socratica](https://youtu.be/fZQI7nBu32M). Found an amazing blog by [Robin Wieruch](https://www.robinwieruch.de/blog).
+
+**Link(s) to work**
+
+1. [PERN Stack ToDo App](https://github.com/Mugilan-Codes/simple-pern-todo-app)
+1. [Backend Project Setup](https://github.com/Mugilan-Codes/backend-project-setup)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1269323744750649344?s=20)
+
+---
