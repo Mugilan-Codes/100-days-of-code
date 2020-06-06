@@ -1,7 +1,7 @@
 # 100 Days of Code
 
-- [Website](https://www.100daysofcode.com/)
-- [Repo](https://github.com/Kallaway/100-days-of-code)
+- [Official Website](https://www.100daysofcode.com/)
+- [Official Repo](https://github.com/Kallaway/100-days-of-code)
 
 ## Main Commitment
 
