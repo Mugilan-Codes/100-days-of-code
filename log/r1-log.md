@@ -426,3 +426,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1269323744750649344?s=20)
 
 ---
+
+## Day **30** : _June 07, Sunday_
+
+**Today's Progress**: Imporved my Postgres skills
+
+**Thoughts**: Revised and caught up with PostgreSQL for the project, Going to learn about the ORM Sequelize. Sequelize is to Postgres like Mongoose is to MongoDB
+
+**Link(s) to work**
+
+1. [Robin Wieruch Blog](https://www.robinwieruch.de/blog)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1269677330768605185?s=20)
+
+---
