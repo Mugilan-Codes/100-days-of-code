@@ -440,3 +440,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1269677330768605185?s=20)
 
 ---
+
+## Day **31** : _June 08, Monday_
+
+**Today's Progress**: Learnt about REST API and ORM's
+
+**Thoughts**: Finally got my hands dirty with Sequlize, ORM for PostgreSQL. Still weighing in the factor whether to use ORM or type in Raw queries. I will decide this after i complete designing database schema for my side project
+
+**Link(s) to work**
+
+1. [Robin Wieruch Blog](https://www.robinwieruch.de/blog)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1270024945599311872?s=20)
+
+---
