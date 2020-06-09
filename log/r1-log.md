@@ -454,3 +454,13 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1270024945599311872?s=20)
 
 ---
+
+## Day **32** : _June 09, Tuesday_
+
+**Today's Progress**: Webpack and Babel configuration
+
+**Thoughts**: Learnt more about webpack and babel to the point where i am fairly confident that i can setup a good webpack bundle. Sticking to the Roadmap, Planning to get myself reacquainted with JAVA
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1270393512014405633?s=20)
+
+---
