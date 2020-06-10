@@ -464,3 +464,22 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1270393512014405633?s=20)
 
 ---
+
+## Day **33** : _June 10, Wednesday_
+
+**Today's Progress**: Started Trying Deno with TypeScript
+
+**Thoughts**: Today was in no mood to create, Have to change this habit of getting in mood to code. Checked out about Deno and Typescript. The Latter feels awfully similar to JAVA.
+
+**Links**:
+
+1. [10 Things I Regret About Node.js - Ryan Dahl - JSConf EU](https://youtu.be/M3BM9TB-8yA)
+1. [Deno](https://deno.land/)
+1. [Typescript](https://www.typescriptlang.org/)
+1. [Deno Handbook by Flavio Copes](https://flaviocopes.com/deno/)
+1. [Deno Postgres REST API](https://blog.logrocket.com/creating-your-first-rest-api-with-deno-and-postgres/)
+1. [Is TypeScript on Node.js good enough for Java developers?](https://blog.logrocket.com/is-typescript-on-node-js-good-enough-for-java-developers-f5e879e9e6d7/)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1270744656700043270?s=20)
+
+---
