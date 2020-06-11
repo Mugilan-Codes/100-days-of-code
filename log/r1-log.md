@@ -483,3 +483,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1270744656700043270?s=20)
 
 ---
+
+## Day **34** : _June 11, Thursday_
+
+**Today's Progress**: Did Java and Javascript on the Same Day
+
+**Thoughts**: Was bored so much i went back to Java to brush up my skills. Did a Java Masterclass course by Tim Buchalka on Udemy. Have to Complete the course. Then Went to TheOdinProject to do Rock Paper Scissors game Console Version. I have already done this a long time back in my previous account, but i am doing it again from scratch as part of practice.
+
+**Link(s) to work**
+
+1. [RPS Game](https://github.com/Mugilan-Codes/rock-paper-scissors) - Console Version
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1271129455444942848?s=20)
+
+---
