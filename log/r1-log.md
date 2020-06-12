@@ -497,3 +497,19 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1271129455444942848?s=20)
 
 ---
+
+## Day **35** : _June 12, Friday_
+
+**Today's Progress**: Using Webpack to build a RPS Game
+
+**Thoughts**: Had a stupid idea of using Webpack to build out RPS game. Started doing it and facing some difficulties. In the end this is practice and
+
+> 'Practice Makes a Person Perfect'
+
+**Link(s) to work**
+
+1. [RPS Game](https://github.com/Mugilan-Codes/rock-paper-scissors)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1271492710591918080?s=20)
+
+---
