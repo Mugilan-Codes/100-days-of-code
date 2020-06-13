@@ -513,3 +513,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1271492710591918080?s=20)
 
 ---
+
+## Day **36** : _June 13, Saturday_
+
+**Today's Progress**: Worked with XML and PHP
+
+**Thoughts**: Very boring day today except for the part i introduced myself to ATOM editor, It is awesome as hell. Now I use Three Editors
+
+1. VSCodium
+1. Sublime Text
+1. Atom
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1271857354036805632?s=20)
+
+---
