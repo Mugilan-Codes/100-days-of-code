@@ -527,3 +527,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1271857354036805632?s=20)
 
 ---
+
+## Day **37** : _June 14, Sunday_
+
+**Today's Progress**: Completed College Work and Webpack Configuration for RPS Game
+
+**Thoughts**: Finally completed XML project for college, it took only 6 hours of my time. Completed Basic Webpack setup for RPS game i am building. Need to find a way to minify images and actually complete the game by giving it a UI. Also need to write a script to publish the dist folder from the build and push it to gh-pages.
+
+**Link(s) to work**
+
+1. [RPS Game](https://github.com/Mugilan-Codes/rock-paper-scissors)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1272226476360785921?s=20)
+
+---
