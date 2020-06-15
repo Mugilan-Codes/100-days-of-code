@@ -541,3 +541,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1272226476360785921?s=20)
 
 ---
+
+## Day **38** : _June 15, Monday_
+
+**Today's Progress**: Webpack configuration for RPS game completed
+
+**Thoughts**: Found a way to push a specific folder to github pages branch using [gh-pages](https://www.npmjs.com/package/gh-pages) package, it is awesome
+
+**Link(s) to work**
+
+1. [RPS Game](https://github.com/Mugilan-Codes/rock-paper-scissors)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1272558220121268224?s=20)
+
+---
