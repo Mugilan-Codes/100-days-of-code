@@ -555,3 +555,18 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1272558220121268224?s=20)
 
 ---
+
+## Day **39** : _June 16, Tuesday_
+
+**Today's Progress**: Completely Unproductive Day except for starting with Typescript
+
+**Thoughts**: Today was a day i was literally dumb and not even code a single line properly, i stupidly spent 4 hours in a RPS game only to delete it afterwards and start completely fresh. Now making design and planning for the RPS game so i can code better. Also Learnt some basics of [Typescript](https://www.typescriptlang.org/) from [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+
+**Link(s) to work**
+
+1. [RPS Game](https://github.com/Mugilan-Codes/rock-paper-scissors)
+1. [Typescript Tutorial](https://github.com/Mugilan-Codes/typescript-tutorial)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1272933255356968960?s=20)
+
+---
