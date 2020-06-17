@@ -570,3 +570,18 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1272933255356968960?s=20)
 
 ---
+
+## Day **40** : _June 17, Wednesday_
+
+**Today's Progress**: Made significant progress in RPS Game
+
+**Thoughts**: Mindblowing improvement from yesterday, was able to code easily. Also getting interested in Typescript. I am thinking of Learning Deno after completing Typescript.
+
+**Link(s) to work**
+
+1. [RPS Game](https://github.com/Mugilan-Codes/rock-paper-scissors)
+1. [Typescript Tutorial](https://github.com/Mugilan-Codes/typescript-tutorial)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1273299235178307584?s=20)
+
+---
