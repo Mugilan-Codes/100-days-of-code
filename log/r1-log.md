@@ -585,3 +585,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1273299235178307584?s=20)
 
 ---
+
+## Day **41** : _June 18, Thursday_
+
+**Today's Progress**: Worked on RPS Game
+
+**Thoughts**: Worked on my RPS game for the Odin Project Course. Still facing issues, but added submitted the site link to TOP. Will complete the game tomorrow including the CSS.
+
+**Link(s) to work**
+
+1. [RPS Game](https://github.com/Mugilan-Codes/rock-paper-scissors)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1273659977933045760?s=20)
+
+---
