@@ -599,3 +599,13 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1273659977933045760?s=20)
 
 ---
+
+## Day **42** : _June 19, Friday_
+
+**Today's Progress**: Today was a lazy day.
+
+**Thoughts**: Didn't do much. Watched The Order on Netflix and Made a template for RPS game. I thought i would have completed it by now, but it is taking unusually long time and i am frustrated af.
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1274033722572955653?s=20)
+
+---
