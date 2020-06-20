@@ -609,3 +609,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1274033722572955653?s=20)
 
 ---
+
+## Day **43** : _June 20, Saturday_
+
+**Today's Progress**: Completed the RPS Game Template and 90% completion
+
+**Thoughts**: Worked mostly on HTML, CSS, JS and Game Logic for most of the day, then applied those inside of the webpack app.
+
+**Link(s) to work**
+
+1. [RPS Game](https://github.com/Mugilan-Codes/rock-paper-scissors)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1274390985267527681?s=20)
+
+---
