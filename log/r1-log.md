@@ -623,3 +623,19 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1274390985267527681?s=20)
 
 ---
+
+## Day **44** : _June 21, Sunday_
+
+**Today's Progress**: RPS Game, HackerRank, Etch-a-Sketch
+
+**Thoughts**: Finally Completed Rock-Paper-Scissors Game, needs some modifications but the game is done. Also did some challenges in HackerRank got my gold star in JavaScript. Started Etch-a-Sketch Project, seems easier now.
+
+**Link(s) to work**
+
+1. [My HackerRank Profile](https://www.hackerrank.com/mugilancodes)
+1. [RPS Game](https://github.com/Mugilan-Codes/rock-paper-scissors)
+1. [Etch-a-Sketch](https://github.com/Mugilan-Codes/etch-a-sketch)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1274764677495484417?s=20)
+
+---
