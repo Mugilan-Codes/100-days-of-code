@@ -639,3 +639,26 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1274764677495484417?s=20)
 
 ---
+
+## Day **45** : _June 22, Monday_
+
+**Today's Progress**: Completed and Submitted Etch-a-Sketch Project
+
+**Thoughts**: Completed the project in 2 hours overall. Did some challenges and readings on JS Objects and Arrays. Created Accounts in Exercism and Codewars, both of which looks awesome. Today was a awseome day.
+
+**Desk Setup Ideas**:
+
+- Keychron K2 Keyboard
+- Logitech MX Master Mouse
+
+**Link(s) to work**
+
+1. [Etch-a-Sketch](https://github.com/Mugilan-Codes/etch-a-sketch)
+1. [HackerRank Profile](https://www.hackerrank.com/mugilancodes)
+1. [Exercism Profile](https://exercism.io/profiles/Mugilan-Codes)
+1. [Codewars Profile](https://www.codewars.com/users/Mugilan-Codes)
+1. [StackOverflow Profile](https://stackoverflow.com/users/12381908/mugilan-e-s?tab=profile)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1275125361194356736?s=20)
+
+---
