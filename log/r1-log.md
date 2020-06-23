@@ -662,3 +662,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1275125361194356736?s=20)
 
 ---
+
+## Day **46** : _June 23, Tuesday_
+
+**Today's Progress**: Started Calculator Project
+
+**Thoughts**: Made some design for calculator. Going with the mobile first approach, working on the calculator logics. Did Challenges on CodeWars
+
+**Link(s) to work**
+
+1. [Calculator](https://github.com/Mugilan-Codes/calculator)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1275466672535564289?s=20)
+
+---
