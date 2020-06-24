@@ -676,3 +676,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1275466672535564289?s=20)
 
 ---
+
+## Day **47** : _June 24, Wednesday_
+
+**Today's Progress**: Still working on the Calculator
+
+**Thoughts**: Worked on the logic and then became frustrated. Started DARK (Netflix Series) Rewatch
+
+**Link(s) to work**
+
+1. [Calculator](https://github.com/Mugilan-Codes/calculator)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1275820072318066688?s=20)
+
+---
