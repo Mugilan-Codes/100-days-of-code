@@ -690,3 +690,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1275820072318066688?s=20)
 
 ---
+
+## Day **48** : _June 25, Thursday_
+
+**Today's Progress**: Did some challenges and took some rest
+
+**Thoughts**: Today was not a effective day. did some challenges in Codewars and Exercism. Made some minor changes to the calculator app
+
+**Link(s) to work**
+
+1. [Calculator](https://github.com/Mugilan-Codes/calculator)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1276194582649135104?s=20)
+
+---
