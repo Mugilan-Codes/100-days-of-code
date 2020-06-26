@@ -704,3 +704,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1276194582649135104?s=20)
 
 ---
+
+## Day **49** : _June 26, Friday_
+
+**Today's Progress**: Completed Calculator Project
+
+**Thoughts**: Alright not completed, calculator project still needs work. But my brain not woring anymore, taking rest. Waiting for DARK to release Tomorrow
+
+**Link(s) to work**
+
+1. [Calculator](https://github.com/Mugilan-Codes/calculator)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1276531479669923846?s=20)
+
+---
