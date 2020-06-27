@@ -718,3 +718,13 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1276531479669923846?s=20)
 
 ---
+
+## Day **50** : _June 27, Saturday_
+
+**Today's Progress**: Rest Day
+
+**Thoughts**: No coding done today. Spent whole day watching Dark Season 3
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1276924428652167168?s=20)
+
+---
