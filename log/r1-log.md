@@ -728,3 +728,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1276924428652167168?s=20)
 
 ---
+
+## Day **51** : _June 28, Sunday_
+
+**Today's Progress**: Started Project.
+
+**Thoughts**: Planned on the schema and made the initial work.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1277286425000505344?s=20)
+
+---
