@@ -742,3 +742,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1277286425000505344?s=20)
 
 ---
+
+## Day **52** : _June 29, Monday_
+
+**Today's Progress**: Getting the Project structure right
+
+**Thoughts**: Worked on planning on the project structure, using Node-Postgres instead of ORM. Also completed some sections in The Odin Project.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1277655529435742208?s=20)
+
+---
