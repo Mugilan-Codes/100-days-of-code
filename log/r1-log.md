@@ -756,3 +756,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1277655529435742208?s=20)
 
 ---
+
+## Day **53** : _June 30, Tuesday_
+
+**Today's Progress**: Work on Side Project and some challenges in The Odin Project
+
+**Thoughts**: Did some initial backend work, got confused on what kind of project structure to use. will plan everyhting out tomorrow and get into routes
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1278004742245908481?s=20)
+
+---
