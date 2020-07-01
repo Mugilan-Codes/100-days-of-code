@@ -770,3 +770,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1278004742245908481?s=20)
 
 ---
+
+## Day **54** : _July 01, Wednesday_
+
+**Today's Progress**: Learning about Object Prototype
+
+**Thoughts**: Object Prototype concept is similar to inheritance concept of JAVA but not the same so a little confused. Did not work on my side project today.
+
+**Link(s) to work**
+
+1. [Book Library](https://github.com/Mugilan-Codes/book-library)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1278362536044199936?s=20)
+
+---
