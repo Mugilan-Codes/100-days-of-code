@@ -784,3 +784,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1278362536044199936?s=20)
 
 ---
+
+## Day **55** : _July 02, Thursday_
+
+**Today's Progress**: Completed Book Library
+
+**Thoughts**: Completed Book Library project with local storage, have to modify it to use classes and change the UI
+
+**Link(s) to work**
+
+1. [Book Library](https://github.com/Mugilan-Codes/book-library)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1278732403465351168?s=20)
+
+---
