@@ -798,3 +798,13 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1278732403465351168?s=20)
 
 ---
+
+## Day **56** : _July 03, Friday_
+
+**Today's Progress**: No Progress
+
+**Thoughts**: Took a day off because of headache. Started watching Warrior Nuns on Netflix
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1279095262644854785?s=20)
+
+---
