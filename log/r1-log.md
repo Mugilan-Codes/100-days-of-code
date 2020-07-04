@@ -808,3 +808,13 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1279095262644854785?s=20)
 
 ---
+
+## Day **57** : _July 04, Saturday_
+
+**Today's Progress**: Learned about Factory Functions
+
+**Thoughts**: Getting a little better, but still tired. just did some reading on javascript core concepts and grasped on factory and functions and how it replaces constructor
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1279445042852057090?s=20)
+
+---
