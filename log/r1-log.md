@@ -818,3 +818,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1279445042852057090?s=20)
 
 ---
+
+## Day **58** : _July 05, Sunday_
+
+**Today's Progress**: Another day spent on Factory functions and Module Patterns
+
+**Thoughts**: Spent a lot of time understanding factory functions and module patterns in javascript, still not clear with the concepts and how to implement them properly. Will need one more day to grasp the concepts and therefore properly complete my Tic-Tac-Toe Project.
+
+**Link(s) to work**
+
+1. [Tic-Tac-Toe](https://github.com/Mugilan-Codes/tic-tac-toe)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1279826051753897992?s=20)
+
+---
