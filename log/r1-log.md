@@ -832,3 +832,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1279826051753897992?s=20)
 
 ---
+
+## Day **59** : _July 06, Monday_
+
+**Today's Progress**: Revisiting JS Concepts
+
+**Thoughts**: Relearned about Factory Functions and Module Patterns in JS. Will Concentrate fully on my Side project from tomorrow.
+
+**Link(s) to work**
+
+1. [Tic-Tac-Toe](https://github.com/Mugilan-Codes/tic-tac-toe)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1280176311663620097?s=20)
+
+---
