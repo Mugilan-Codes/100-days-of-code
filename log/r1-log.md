@@ -846,3 +846,18 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1280176311663620097?s=20)
 
 ---
+
+## Day **60** : _July 07, Tuesday_
+
+**Today's Progress**: Designed a GameBoard for TicTacToe
+
+**Thoughts**: Made TicTacToe to populate the grid with the array data. Making some significant progress in my side project, still working on the design concepts, for now decided to just make it and scale it up as i go along.
+
+**Link(s) to work**
+
+1. [Tic-Tac-Toe](https://github.com/Mugilan-Codes/tic-tac-toe)
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1280534770464600064?s=20)
+
+---
