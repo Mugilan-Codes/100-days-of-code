@@ -861,3 +861,18 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1280534770464600064?s=20)
 
 ---
+
+## Day **61** : _July 08, Wednesday_
+
+**Today's Progress**: Getting my Butt Kicked by PERN Stack.
+
+**Thoughts**: I have now spent more time on planning how to start than to actually code stuff. Will do a fresh start tomorrow.
+
+**Link(s) to work**
+
+1. [Tic-Tac-Toe](https://github.com/Mugilan-Codes/tic-tac-toe)
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1280892700615561216?s=20)
+
+---
