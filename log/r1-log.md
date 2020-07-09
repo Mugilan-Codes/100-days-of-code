@@ -876,3 +876,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1280892700615561216?s=20)
 
 ---
+
+## Day **62** : _July 09, Thursday_
+
+**Today's Progress**: Planned and Modified Postgres Backend
+
+**Thoughts**: Spent some significant amount of time modifying the backend for the project. Made a plan to repurpose my life, going to commit to 100 Days of Fitness Challenge, So created a schedule.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1281239182631788544?s=20)
+
+---
