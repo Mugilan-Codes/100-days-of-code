@@ -890,3 +890,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1281239182631788544?s=20)
 
 ---
+
+## Day **63** : _July 10, Friday_
+
+**Today's Progress**: Created User's Table and Route
+
+**Thoughts**: Started kicking PERN Stack's Butt now. Thanks to my new daily schedule, i have ample time to workout and prepare for the day. Only downside is that i may have to sleep at 9:00 p.m.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1281604586361372672?s=20)
+
+---
