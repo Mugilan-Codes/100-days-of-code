@@ -904,3 +904,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1281604586361372672?s=20)
 
 ---
+
+## Day **64** : _July 11, Saturday_
+
+**Today's Progress**: 25% API completed
+
+**Thoughts**: Completed the users route and verification. also created a new feature called profile readme in github(jumping on the bandwagon)
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1281984930491203587?s=20)
+
+---
