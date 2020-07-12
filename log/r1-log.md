@@ -918,3 +918,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1281984930491203587?s=20)
 
 ---
+
+## Day **65** : _July 12, Sunday_
+
+**Today's Progress**: Modified database logic in my app.
+
+**Thoughts**: Made some modification to the project. Checked and cleared old repositories in github. Helped my friend on his first nodejs project.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1282330748930764802?s=20)
+
+---
