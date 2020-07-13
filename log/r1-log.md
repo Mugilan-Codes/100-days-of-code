@@ -932,3 +932,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1282330748930764802?s=20)
 
 ---
+
+## Day **66** : _July 13, Monday_
+
+**Today's Progress**: Docker
+
+**Thoughts**: Started learning docker after seeing someones tweet saying that docker makes backed development easier. Difficult to understand. Planning to make changes in the app, doing this in the basic level because it will be easier to maintain and build up if the basement is strong.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**]()
+
+---
