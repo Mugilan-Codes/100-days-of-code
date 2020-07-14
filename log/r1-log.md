@@ -946,3 +946,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1282693049068347392?s=20)
 
 ---
+
+## Day **67** : _July 14, Tuesday_
+
+**Today's Progress**: Setting up routers and controllers.
+
+**Thoughts**: Had a eureka moment and started developing a working architecture for my backend api. had to work more on it. Have to start putting up screenshots in tweets. complete the linkedin profile page too.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1283065157313150976?s=20)
+
+---
