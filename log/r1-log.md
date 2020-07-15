@@ -960,3 +960,13 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1283065157313150976?s=20)
 
 ---
+
+## Day **68** : _July 15, Wednesday_
+
+**Today's Progress**: Docker Getting Started Docs
+
+**Thoughts**: Spent entire day on understanding containerization, have to take notes and try to make a simple build. The concept is interesting but quite difficult to grasp
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1283419608741904385?s=20)
+
+---
