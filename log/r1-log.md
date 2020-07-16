@@ -970,3 +970,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1283419608741904385?s=20)
 
 ---
+
+## Day **69** : _July 16, Thursday_
+
+**Today's Progress**: Setting up project structure
+
+**Thoughts**: Finally finished setting up project structure. This project strucuture is clean and promotes DRY concepts. Excited to complete the backend within 15 days.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1283779596073091072?s=20)
+
+---
