@@ -984,3 +984,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1283779596073091072?s=20)
 
 ---
+
+## Day **70** : _July 17, Friday_
+
+**Today's Progress**: Setup Login Route and Request Body Validaton
+
+**Thoughts**: Spent entire day building login route and refactoring it. Got fed up with express-validator and decide to change to JOI and Celebrate, Those are really good and extensive. Halfway through the migration process. Next on my list to setup Docker and Docker Compose for the project.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1284154029849710593?s=20)
+
+---
