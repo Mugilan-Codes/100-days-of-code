@@ -998,3 +998,13 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1284154029849710593?s=20)
 
 ---
+
+## Day **71** : _July 18, Saturday_
+
+**Today's Progress**: Migrated Back to VSCode from VSCodium
+
+**Thoughts**: After spending some years in VSCodium, I decided to shift back to VSCode. Being Honest, The Official VSCode is 1000 times better than the Codium. Spent some time installing my preferred extensions. My most favourite new extension is Settings Sync. Also Learnt DOCKER
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1284509776949305344?s=20)
+
+---
