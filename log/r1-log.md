@@ -1008,3 +1008,13 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1284509776949305344?s=20)
 
 ---
+
+## Day **72** : _July 19, Sunday_
+
+**Today's Progress**: No Code Day
+
+**Thoughts**: Spent time on old bookmarked blogs and made some notes. Tried to play with docker but faced some difficulties with postgres image, will perfect tomorrow
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1284882705037979648?s=20)
+
+---
