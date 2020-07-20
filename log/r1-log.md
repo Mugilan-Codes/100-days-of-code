@@ -1018,3 +1018,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1284882705037979648?s=20)
 
 ---
+
+## Day **73** : _July 20, Monday_
+
+**Today's Progress**: Made JOI as prime request validation
+
+**Thoughts**: Moved to Celebrate JOI package from express-validator as my prime request validation. needs some work. trying to learn docker, so decided to refactor my old projects for practice.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1285234094758977536?s=20)
+
+---
