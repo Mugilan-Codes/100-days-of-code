@@ -1032,3 +1032,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1285234094758977536?s=20)
 
 ---
+
+## Day **74** : _July 21, Tuesday_
+
+**Today's Progress**: Getting Impostor Syndrome
+
+**Thoughts**: Feeling down and questioning myself about my ability to code. Have to get back stronger. Will have to start writing blogs to get rid of this feeling. 
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1285610116646088704?s=20)
+
+---
