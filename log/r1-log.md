@@ -1046,3 +1046,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1285610116646088704?s=20)
 
 ---
+
+## Day **75** : _July 22, Wednesday_
+
+**Today's Progress**: Another day of spending time on Docker
+
+**Thoughts**: Made some progress in docker, still facing difficulty with using the postgres image properly with .env in my container and also checking a way for separate Docker containers for development and production.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1285955297027043328?s=20)
+
+---
