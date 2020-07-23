@@ -1060,3 +1060,13 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1285955297027043328?s=20)
 
 ---
+
+## Day **76** : _July 23, Thursday_
+
+**Today's Progress**: Docker Fundamentals again
+
+**Thoughts**: Totally unproductive day except for exploring docker again. Did not follow the plan for today.
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1286321165397499904?s=20)
+
+---
