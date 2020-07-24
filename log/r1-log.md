@@ -1070,3 +1070,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1286321165397499904?s=20)
 
 ---
+
+## Day **77** : _July 24, Friday_
+
+**Today's Progress**: Project Work, Gatsby Hello World
+
+**Thoughts**: Tried to build my first resume and apply for interships in linkedin and intershala. Faced difficulties in writing up own resume which put me in a sad mood today. Started doing Gatsby to recover from that but still felt the same. To add to the dejected mood, felt completely dumb when building up routes which i am very good at. From tomorrow onwards will focus on just one task one skill mantra.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1286697591812395008?s=20)
+
+---
