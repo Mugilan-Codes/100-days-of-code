@@ -1037,7 +1037,7 @@
 
 **Today's Progress**: Getting Impostor Syndrome
 
-**Thoughts**: Feeling down and questioning myself about my ability to code. Have to get back stronger. Will have to start writing blogs to get rid of this feeling. 
+**Thoughts**: Feeling down and questioning myself about my ability to code. Have to get back stronger. Will have to start writing blogs to get rid of this feeling.
 
 **Link(s) to work**
 
@@ -1082,5 +1082,15 @@
 1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
 
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1286697591812395008?s=20)
+
+---
+
+## Day **78** : _July 25, Saturday_
+
+**Today's Progress**: No Progress
+
+**Thoughts**: Made plans but decided to take rest to avoid burnout
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1287058310626070528?s=20)
 
 ---
