@@ -1094,3 +1094,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1287058310626070528?s=20)
 
 ---
+
+## Day **79** : _July 26, Sunday_
+
+**Today's Progress**: Completed Basic REST Routing
+
+**Thoughts**: Completed all user routes for the project. Now have to make docker work before proceeding to next stage. also have to prepare my resume.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1287404390874148866?s=20)
+
+---
