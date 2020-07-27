@@ -1108,3 +1108,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1287404390874148866?s=20)
 
 ---
+
+## Day **80** : _July 27, Monday_
+
+**Today's Progress**: First Draft of Resume. Docker.
+
+**Thoughts**: Basic and plain draft of resume is done. Also made docker work in my project, still needs to persist data and make separated dev and prod environments. but improvement is improvement.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1287769598704590848?s=20)
+
+---
