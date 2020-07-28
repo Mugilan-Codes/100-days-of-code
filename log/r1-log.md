@@ -1122,3 +1122,25 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1287769598704590848?s=20)
 
 ---
+
+## Day **81** : _July 28, Tuesday_
+
+**Today's Progress**: Gistpad, Gatsby, & GraphQL
+
+**Thoughts**: Installed and used Gistpad extension in VSCode and made changes to Profile Readme. Researched on how to use docker for both development and production. Planned to make a Portfolio website which led to Gatsby. A part of the tutorial is about GraphQL.
+
+**Current Objectives**:
+
+- Complete Backend for My Family Budget
+- Portfolio Website
+- Make Blog Posts
+- Made changes to Resume
+
+**Link(s) to work**
+
+1. [My Profile Readme](https://github.com/Mugilan-Codes/Mugilan-Codes)
+1. [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1288139411792642048?s=20)
+
+---
