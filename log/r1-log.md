@@ -1144,3 +1144,18 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1288139411792642048?s=20)
 
 ---
+
+## Day **82** : _July 29, Wednesday_
+
+**Today's Progress**: Learning GraphQL
+
+**Thoughts**: Started Learning GraphQL and i have varying opinions about it, However i think it is very powerfull. I must complete the already delayed projects before moving to learn new things.
+
+**Link(s) to work**
+
+1. [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+1. [Hackernews Clone API](https://github.com/Mugilan-Codes/hackernews-node)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1288502511863660550?s=20)
+
+---
