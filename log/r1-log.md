@@ -1159,3 +1159,18 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1288502511863660550?s=20)
 
 ---
+
+## Day **83** : _July 30, Thursday_
+
+**Today's Progress**: Update to Catalina, Admin Routes
+
+**Thoughts**: Created Admin table, and all the basic things surrounding it. Purchased a Table and a Chair from Woodpecker. Took almost like 4 hours to update my mac to Catalina.
+
+**Link(s) to work**
+
+1. [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+2. [Hackernews Clone API](https://github.com/Mugilan-Codes/hackernews-node)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1288898966055030784?s=20)
+
+---
