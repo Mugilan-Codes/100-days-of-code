@@ -1174,3 +1174,18 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1288898966055030784?s=20)
 
 ---
+
+## Day **84** : _July 31, Friday_
+
+**Today's Progress**: Desk Setup, Learning GraphQL
+
+**Thoughts**: Made my first desk setup and took some rest. Learning GraphQL in the how to graphql website, only halway in i realized that the content was outdated. so ditched it and decided to learn graphql from the official documentation
+
+**Link(s) to work**
+
+1. [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+2. [Hackernews Clone API](https://github.com/Mugilan-Codes/hackernews-node)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1289217539373797377?s=20)
+
+---
