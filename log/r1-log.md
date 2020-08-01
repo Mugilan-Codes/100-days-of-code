@@ -1189,3 +1189,13 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1289217539373797377?s=20)
 
 ---
+
+## Day **85** : _August 01, Saturday_
+
+**Today's Progress**: Mindblock Day
+
+**Thoughts**: Had a mindblock and couldn't decide what to do. So Cleaned up my room, worked out and slept like a kid.
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1289594981808656384?s=20)
+
+---
