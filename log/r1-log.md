@@ -1199,3 +1199,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1289594981808656384?s=20)
 
 ---
+
+## Day **86** : _August 02, Sunday_
+
+**Today's Progress**: Architecture Changes in project
+
+**Thoughts**: Worked on old projects and changed some architecture in the family budget one. Finished the authentication portion of the api. Have plans to implement google login/signup, but that's for later. The Last 50% phase of the API begins.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1289933201704513536?s=20)
+
+---
