@@ -1213,3 +1213,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1289933201704513536?s=20)
 
 ---
+
+## Day **87** : _August 03, Monday_
+
+**Today's Progress**: Designing API
+
+**Thoughts**: Spent all day designing a new table for the API and implemented some routes. Seriously thinking of converting to GraphQL because of the sheer number of routes which will make it difficult while doing frontend.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1290305467365744640?s=20)
+
+---
