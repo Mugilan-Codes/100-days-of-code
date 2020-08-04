@@ -1227,3 +1227,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1290305467365744640?s=20)
 
 ---
+
+## Day **88** : _August 04, Tuesday_
+
+**Today's Progress**: Worked on Project
+
+**Thoughts**: Made some more routes. The sheer number of routes is becoming a problem. One I have to wrap my REST api with GraphQL or migrate to GraphQL completely.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1290665042015334405?s=20)
+
+---
