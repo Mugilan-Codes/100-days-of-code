@@ -1241,3 +1241,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1290665042015334405?s=20)
 
 ---
+
+## Day **89** : _August 05, Wednesday_
+
+**Today's Progress**: Backend Work
+
+**Thoughts**: Facing difficulties concentrating on coding the same app and npt moving on to next one. But forcing myself to complete the project. I have to start doing my portfolio website on the side and make a plan for the next 100 days.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1291031507780292611?s=20)
+
+---
