@@ -1255,3 +1255,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1291031507780292611?s=20)
 
 ---
+
+## Day **90** : _August 06, Thursday_
+
+**Today's Progress**: GraphQL, Backend Work
+
+**Thoughts**: Helped my friend with his project and taught him about git and github. Spent some time on GraphQL, Not able to find a complete nice tutorial for GraphQL and i am loosing hope. Finally, did some backend work, still need to implement majority of routes like storing and calculating the money.
+
+**Link(s) to work**
+
+1. [My-Family-Budget](https://github.com/Mugilan-Codes/my-family-budget)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1291385280339955712?s=20)
+
+---
