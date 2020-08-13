@@ -1269,3 +1269,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1291385280339955712?s=20)
 
 ---
+
+## Day **91** : _August 13, Thursday_
+
+**Today's Progress**: After 1 week, Dotfiles.
+
+**Thoughts**: Got my mac back from repair after 1 week, in that time read many books and prepared for my 3rd semester in college. Found this as a good time to make dotfiles as i lost all my previous configurations. Spent like 4 hours setting up and decided to do a fresh install after commiting this to github, because frankly i have no idea whether it will work or not.
+
+**Link(s) to work**
+
+1. [My Dotfiles](https://github.com/Mugilan-Codes/dotfiles)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1293919677521915906?s=20)
+
+---
