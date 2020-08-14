@@ -1283,3 +1283,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1293919677521915906?s=20)
 
 ---
+
+## Day **92** : _August 14, Friday_
+
+**Today's Progress**: Java for College, Dotfiles
+
+**Thoughts**: Had classes for 6 hours straight, got back on JAVA and implemented Stack and Queue as practice. Begun more work on dotfiles, started cleaning up unwanted files. Still difficult to completely control, i am trying my best. Come Sunday, i will clean install mac once more and setup the computer using my dotfiles. My Idea is to keep it simple.
+
+**Link(s) to work**
+
+1. [My Dotfiles](https://github.com/Mugilan-Codes/dotfiles)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1294312378910171137?s=20)
+
+---
