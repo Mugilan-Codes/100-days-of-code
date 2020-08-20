@@ -1270,6 +1270,10 @@
 
 ---
 
+LONG GAP - 6 DAYS
+
+---
+
 ## Day **91** : _August 13, Thursday_
 
 **Today's Progress**: After 1 week, Dotfiles.
@@ -1295,5 +1299,23 @@
 1. [My Dotfiles](https://github.com/Mugilan-Codes/dotfiles)
 
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1294312378910171137?s=20)
+
+---
+
+LONG GAP - 5 DAYS
+
+---
+
+## Day **93** : _August 20, Thursday_
+
+**Today's Progress**: Back to full form
+
+**Thoughts**: finally made my laptop work and coming back stronger. finding it hard to work on my personal projects as the college as begun and taking up most of my time away. Will make time from now on to better myself as a coder. by this time i must have started the second round but because of the delay i am continuing the round 1 of 100 days of code.
+
+**Link(s) to work**
+
+1. [My Dotfiles](https://github.com/Mugilan-Codes/dotfiles)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1296472832369721349?s=20)
 
 ---
