@@ -1319,3 +1319,13 @@ LONG GAP - 5 DAYS
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1296472832369721349?s=20)
 
 ---
+
+## Day **94** : _August 21, Friday_
+
+**Today's Progress**: Classes in Java and Python
+
+**Thoughts**: Did some Data Structures in Java on which i totally sucked, which in turn put me in a very bad mood. Furthermore i feel a burnout and depression as i cannot come up with a good idea for the Socially Relevent Project Coursework for my semester.
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1296835583247933440?s=20)
+
+---
