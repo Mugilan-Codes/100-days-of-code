@@ -1329,3 +1329,13 @@ LONG GAP - 5 DAYS
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1296835583247933440?s=20)
 
 ---
+
+## Day **95** : _August 22, Saturday_
+
+**Today's Progress**: TCP and UDP Socket, Pipenv installation
+
+**Thoughts**: Did TCP and UDP Socket Comunication Program in Java which was quite challenging without tutorials. Also Set up my python environment for Full Stack Development Class. Have to create a Abstract and PPT for the Project ideas, I have no idea why i am getting depressed and pressure for this small thing. Go with the flow.
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1297196246092795904?s=20)
+
+---
