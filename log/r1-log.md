@@ -1339,3 +1339,13 @@ LONG GAP - 5 DAYS
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1297196246092795904?s=20)
 
 ---
+
+## Day **96** : _August 23, Sunday_
+
+**Today's Progress**: Java Coding Practice, Champions League Night
+
+**Thoughts**: Practiced and brushed up old skills in Java. Covered some topics in Java Masterclass Course by Tim Buchalka in Udemy. Made myself free tonight for Champions League Final Match (Bayern Munich vs PSG). Excited so completed all works for today going for early sleep.
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1297561171701059584?s=20)
+
+---
