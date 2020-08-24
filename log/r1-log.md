@@ -1349,3 +1349,17 @@ LONG GAP - 5 DAYS
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1297561171701059584?s=20)
 
 ---
+
+## Day **97** : _August 24, Monday_
+
+**Today's Progress**: Did Java and Set up Hacking Lab
+
+**Thoughts**: Did Java Masterclass code and Learned some mor basics of java. Used Jupyter Lab for Python class. Finally installed Kali Linux to work in Virtual Box. Today was a god day.
+
+**Link(s) to work**
+
+1. [Java Coding Exercises](https://github.com/Mugilan-Codes/java-coding-exercises)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1297927825953918977?s=20)
+
+---
