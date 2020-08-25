@@ -1363,3 +1363,13 @@ LONG GAP - 5 DAYS
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1297927825953918977?s=20)
 
 ---
+
+## Day **98** : _August 25, Tuesday_
+
+**Today's Progress**: Researched for Mobile Development
+
+**Thoughts**: Today did nothing much than to check for better Mobile Development Platform for the college project about to be done. Right now torn between Flutter, React Native, and Kotlin. Choosing is hard. Made plans with my college friend to start and 100 days of code with partner challenge to learn new stuffs and build simple applications to put in a resume.
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1298291589631025153?s=20)
+
+---
