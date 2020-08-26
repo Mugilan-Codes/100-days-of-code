@@ -1373,3 +1373,17 @@ LONG GAP - 5 DAYS
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1298291589631025153?s=20)
 
 ---
+
+## Day **99** : _August 26, Wednesday_
+
+**Today's Progress**: Worked on Java
+
+**Thoughts**: Did Java Coding Exercises the whole day. Getting distant from Javascript so have to change that. Finally decided to make my portfolio website and complete my side projects too.
+
+**Link(s) to work**
+
+1. [Java Coding Exercises](https://github.com/Mugilan-Codes/java-coding-exercises)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1298650907400269825?s=20)
+
+---
