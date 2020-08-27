@@ -1387,3 +1387,13 @@ LONG GAP - 5 DAYS
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1298650907400269825?s=20)
 
 ---
+
+## Day **100** : _August 27, Thursday_
+
+**Today's Progress**: Java day
+
+**Thoughts**: Learned the core concepts in java and getting really good at it. Also made a design for my Portfolio site and also made my friend take up programming. Completed the First round of 100 Days of code.
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1299013047088853003?s=20)
+
+---
