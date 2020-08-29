@@ -9,3 +9,13 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1299407043300712448?s=20)
 
 ---
+
+## Day **2** : _August 29, Saturday_
+
+**Today's Progress**: Did not do much today
+
+**Thoughts**: Learned some concepts in java and python. modified my dotfiles.
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1299746648789188608?s=20)
+
+---
