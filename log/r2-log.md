@@ -19,3 +19,13 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1299746648789188608?s=20)
 
 ---
+
+## Day **3** : _August 30, Sunday_
+
+**Today's Progress**: Next.js, Github Organization
+
+**Thoughts**: Learned Next.js for my Portfolio Website Creation and Potential Blog. Started Github Organization with my friend to improve our coding skills together and learn how to collaborate.
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1300121606249799680?s=20)
+
+---
