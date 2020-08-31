@@ -29,3 +29,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1300121606249799680?s=20)
 
 ---
+
+## Day **4** : _August 31, Monday_
+
+**Today's Progress**: Collaborating on a project
+
+**Thoughts**: Learning how to collaborate effectively with my friend in our organization. Another friend asked for my help to do nodejs backend code for his app. Today was a above average day.  
+
+**Link(s) to work**:
+
+1. [Base Login Template](https://github.com/project-100/base-login-template)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1300476172187308032?s=20)
+
+---
