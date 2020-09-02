@@ -43,3 +43,30 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1300476172187308032?s=20)
 
 ---
+
+## Day **5** : _September 01, Tuesday_
+
+**Today's Progress**: JOI validation
+
+**Thoughts**: Implemented JOI Validation in the project. I am loving this new project folder structure which is easier to maintain and modify in the future. It requires a tremendous amount of initial setup though. Went to meet College Friends after 5 months gap. Forgot to tweet my progress.
+
+**Link(s) to work**:
+
+1. [Base Login Template](https://github.com/project-100/base-login-template)
+
+---
+
+## Day **6** : _September 02, Wednesday_
+
+**Today's Progress**: Java Lab Work
+
+**Thoughts**: Did lot of Java Programs given by my college. Getting Quite Comfortable with Intellij Idea. Got to be honest. It is a power machine. Still got to figure out how to use git inside of Intellij. Organized some files and pushed them to Github.
+
+**Link(s) to work**:
+
+1. [Java Lab Exercises](https://github.com/Mugilan-Codes/java-lab-exercises)
+2. [Advanced Data Structures](https://github.com/Mugilan-Codes/advanced-data-structures)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1301198853006213120?s=20)
+
+---
