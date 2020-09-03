@@ -65,8 +65,22 @@
 **Link(s) to work**:
 
 1. [Java Lab Exercises](https://github.com/Mugilan-Codes/java-lab-exercises)
-2. [Advanced Data Structures](https://github.com/Mugilan-Codes/advanced-data-structures)
+1. [Advanced Data Structures](https://github.com/Mugilan-Codes/advanced-data-structures)
 
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1301198853006213120?s=20)
+
+---
+
+## Day **7** : _September 03, Thursday_
+
+**Today's Progress**: Javascript Project Work
+
+**Thoughts**: Worked whole day on the collab project and not on my side project. It has been 30 days since i last coded in my side project, have to get back to it and finish the backend so i can start my work on the frontend.
+
+**Link(s) to work**:
+
+1. [Base Login Template](https://github.com/project-100/base-login-template)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1301564191048835078?s=20)
 
 ---
