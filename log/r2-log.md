@@ -84,3 +84,17 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1301564191048835078?s=20)
 
 ---
+
+## Day **8** : _September 04, Friday_
+
+**Today's Progress**: Splay Tree in Java
+
+**Thoughts**: Did the tree for college class which went for 4 hours and wasted my time completely. Have to work on my resume and linkedin profile to get internship.
+
+**Link(s) to work**:
+
+1. [Advanced Data Structures](https://github.com/Mugilan-Codes/advanced-data-structures)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1301934392848203777?s=20)
+
+---
