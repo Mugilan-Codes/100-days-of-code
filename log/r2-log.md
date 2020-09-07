@@ -98,3 +98,27 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1301934392848203777?s=20)
 
 ---
+
+## Day **9** : _September 05, Saturday_
+
+**Today's Progress**: Core Java
+
+**Thoughts**: Studied Java for 5 hours straight causing me severe headache.
+
+---
+
+## Day **10** : _September 06, Sunday_
+
+**Today's Progress**: No progress
+
+**Thoughts**: Due to severe headache and fever decided to take a rest. Met up with my friends after long time and had the best day in the year 2020.
+
+---
+
+## Day **11** : _September 07, Monday_
+
+**Today's Progress**: No Progress
+
+**Thoughts**: Spent a good chunk of the day watching Harry Potter. Spent some time coding in Javascript.
+
+---
