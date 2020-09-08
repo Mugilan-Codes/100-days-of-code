@@ -122,3 +122,13 @@
 **Thoughts**: Spent a good chunk of the day watching Harry Potter. Spent some time coding in Javascript.
 
 ---
+
+## Day **12** : _September 08, Tuesday_
+
+**Today's Progress**: React Native CLI
+
+**Thoughts**: Installed Android Studio using Jetbrains Toolbox and set up React Native CLI Environment. Developing the habit of reading the documentation. Also started to learn about Socket.io, although they have a terrible documentation.
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1303375212080029696?s=20)
+
+---
