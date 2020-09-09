@@ -132,3 +132,18 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1303375212080029696?s=20)
 
 ---
+
+## Day **13** : _September 09, Wednesday_
+
+**Today's Progress**: React Native and Java
+
+**Thoughts**: Completed Java Lab Exercises today. Did some changes to the CodeShare Clone we are making. Went through the React Native Documentation and learnt some basics, it is easy to grasp with a prior knowledge in React.js. Only thing that comes as a headache is testing the app and running it with the changes, unlike expo it requires a lot of work.
+
+**Link(s) to work**:
+
+1. [Lend Code](https://github.com/project-100/lendcode)
+1. [Java Lab Exercises](https://github.com/Mugilan-Codes/java-lab-exercises)
+
+[**Tweet Link**](https://twitter.com/MugilanCodes/status/1303736884602920960?s=20)
+
+---
