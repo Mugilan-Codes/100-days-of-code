@@ -147,3 +147,21 @@
 [**Tweet Link**](https://twitter.com/MugilanCodes/status/1303736884602920960?s=20)
 
 ---
+
+## Day **14** : _September 10, Thursday_
+
+**Thoughts**: No Progress
+
+---
+
+## Day **15** : _September 11, Friday_
+
+**Thoughts**: Did java lab work.
+
+---
+
+## Day **16** : _September 12, Saturday_
+
+**Today's Progress**: No Progress
+
+---
