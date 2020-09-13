@@ -165,3 +165,11 @@
 **Today's Progress**: No Progress
 
 ---
+
+## Day **17** : _September 13, Sunday_
+
+**Today's Progress**: Python Environments
+
+**Thoughts**: Messed with various python virtual environments to find the perfect one. so far i am set on Pipenv with Pyenv. also occasionally use venv module. still facing problems.
+
+---
