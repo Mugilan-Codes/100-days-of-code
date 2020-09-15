@@ -173,3 +173,19 @@
 **Thoughts**: Messed with various python virtual environments to find the perfect one. so far i am set on Pipenv with Pyenv. also occasionally use venv module. still facing problems.
 
 ---
+
+## Day **18** : _September 14, Monday_
+
+**Today's Progress**: Messed with wxPython
+
+**Thoughts**: After a long struggle getting comfortable with pipenv + pyenv environments. Little slow but getting there. Stressing myself too much about so many things which is affecting me a lot and my coding ability.
+
+---
+
+## Day **19** : _September 15, Tuesday_
+
+**Today's Progress**: Android Studio & React Native
+
+**Thoughts**: Helped a friend with a Native App in Android Studio, Will continue tomorrow. Decided finally on the Socially Relevent Project and went with React Native Expo CLI, Have to implement Maps and have a lot of work to do. Suddenly feeling like that i am upto no good and i am useless fellow. Have to overcome this stress if i am going to be a Successfull Full Stack Developer.
+
+---
