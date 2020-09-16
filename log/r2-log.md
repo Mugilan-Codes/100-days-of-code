@@ -189,3 +189,15 @@
 **Thoughts**: Helped a friend with a Native App in Android Studio, Will continue tomorrow. Decided finally on the Socially Relevent Project and went with React Native Expo CLI, Have to implement Maps and have a lot of work to do. Suddenly feeling like that i am upto no good and i am useless fellow. Have to overcome this stress if i am going to be a Successfull Full Stack Developer.
 
 ---
+
+## Day **20** : _September 16, Wednesday_
+
+**Today's Progress**: Java Lab Exercises
+
+**Thoughts**: Had to complete and put every output of the code i typed into a pdf and submit, it took 4 hours of work still two programs remain. Extremely tired with headache.
+
+**Link(s) to work**:
+
+1. [Java Lab Exercises](https://github.com/Mugilan-Codes/java-lab-exercises)
+
+---
